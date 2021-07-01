@@ -37,5 +37,5 @@
    - Covid-19 Death by states in the North-East
    - Covid-19 Death by states in the North-Central
    - Covid-19 Death by states in the North-West
-## Task 5- Insights
+## Task 5- Conclusion
 
