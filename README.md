@@ -38,4 +38,14 @@
    - Covid-19 Death by states in the North-Central
    - Covid-19 Death by states in the North-West
 ## Task 5- Conclusion
-
+   - Lagos has the highest number of confirmed and recovered and death cases in nigeria.
+   - The Confirmed, Recovered and Death cases are directly proportional.
+   - The higher the population density the higher the cases.
+   - High correlation between Confirmed cases, Deaths, Discharged.
+   - Gdp for the second quarter of 2020 reduced compared to previous years.
+   - Rivers state has the highest number of Deaths in the south south.
+   - Imo State has the highest number of Deaths in the South East.
+   - Lagos has the highest number of Deaths in the South West.
+   - Gombe State has the highest number of Deaths in the North East.
+   - Kano has the highest number of Deaths in the North West.
+   - FCT has the highest number of Deaths in the North Central.
