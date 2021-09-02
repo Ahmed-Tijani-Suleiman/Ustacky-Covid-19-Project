@@ -42,6 +42,7 @@
    - The Confirmed, Recovered and Death cases are directly proportional.
    - The higher the population density the higher the cases.
    - High correlation between Confirmed cases, Deaths, Discharged.
+   - Budget data shows that budget was drastically reduced as a result of the pandemic.
    - Gdp for the second quarter of 2020 reduced compared to previous years.
    - Rivers state has the highest number of Deaths in the south south.
    - Imo State has the highest number of Deaths in the South East.
